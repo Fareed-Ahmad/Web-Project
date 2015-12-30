@@ -11,19 +11,19 @@ ul{
   list-style-type: none;
   margin: 0;
   padding: 0px,10px,0px,10px;
-  background-color:#f1f1f1; 
+  background-color:#f3f3f3; 
   position: fixed;
   top: 0;
   width: 100%;
 }
 li{
-  color:black;
+  color:#f3f3f3;
   display:inline;
 }
 li a{
   display:block;
   width: 100px;
-  background-color: black;
+  background-color: #f3f3f3;
   color: white;
   padding: 8px 10px 8px 10px;
   display:inline
