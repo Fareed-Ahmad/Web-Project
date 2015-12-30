@@ -11,13 +11,14 @@ ul{
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width:250px;
+  width:300px;
   background-color: #000;
+  display:inline;
   
 }
 li{
   color:#FFF;
-  display:inline;
+  
 }
 li a{
   display:block;
