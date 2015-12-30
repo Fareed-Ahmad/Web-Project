@@ -17,6 +17,7 @@ ul{
 }
 li{
   color:#FFF;
+  display:inline;
 }
 li a{
   display:block;
