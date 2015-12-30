@@ -33,12 +33,11 @@ li a{
   color: white;
   display:inline-block;
   text-align: center;
-  padding: 0px 16px; 
+  padding: 14px 16px; 
   
 }
 a:link {
     text-decoration: none;
-    
 }
 
 a:visited {
