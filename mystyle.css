@@ -15,6 +15,9 @@ ul{
   background-color: #000;
   
 }
+li{
+  color:#FFF;
+}
 li a{
   display:block;
   width: 60px;
