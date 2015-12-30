@@ -1,5 +1,6 @@
 *{
-  
+  margin: 0;
+  padding: 0;
 }
 body{
   background-color: #FFF;
@@ -9,6 +10,7 @@ p{
   font-family: "Microsoft JhengHei Light";
   font-size: 90px;
   text-align: center;
+  padding: 0px 100px;
 }
 ul{
   list-style-type: none;
