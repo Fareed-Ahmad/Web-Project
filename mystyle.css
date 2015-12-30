@@ -26,12 +26,12 @@ li a{
 }
 a:link {
     text-decoration: none;
-    color: black;
+    
 }
 
 a:visited {
     text-decoration: none;
-    color: black;
+   
 }
 
 a:hover {
@@ -42,4 +42,4 @@ a:hover {
 
 a:active {
     text-decoration: underline;
-
+}
