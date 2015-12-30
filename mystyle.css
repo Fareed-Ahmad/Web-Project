@@ -43,6 +43,11 @@ a:visited {
     text-decoration: none;
    
 }
+li a:hover {
+   text-decoration: none;
+    color: #F44336;
+    background-color: #111;
+}
 
 a:hover {
     text-decoration: none;
