@@ -3,7 +3,7 @@
   padding: 0;
 }
 .active{
-  background-color: #4FC3F7;
+  background-color: #00C853;
 }
 body{
   background-color: #FFF;
@@ -39,9 +39,7 @@ li a{
   padding: 14px 16px; 
   
 }
-.active:hover{
-  background-color: #039BE5;
-}
+
 a:link {
     text-decoration: none;
 }
