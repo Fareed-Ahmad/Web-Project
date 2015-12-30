@@ -22,7 +22,7 @@ ul{
   width: 100%;
   overflow: hidden;
   background-color:#333;
-  box-shadow: 50px 0px 5px #E0E0E0;
+  box-shadow: 50px 5px 5px #E0E0E0;
 }
 li{
   float: left;
