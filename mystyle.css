@@ -46,7 +46,7 @@ a:visited {
 }
 li a:hover {
    text-decoration: none;
-    color: #000;
+    color: #FFF;
     background-color: #00C853;
 }
 
