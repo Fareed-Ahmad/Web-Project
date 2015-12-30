@@ -1,4 +1,6 @@
-
+*{
+  
+}
 body{
   background-color: #FFF;
   font-family: "Microsoft JhengHei Light";
@@ -45,13 +47,13 @@ a:visited {
 }
 li a:hover {
    text-decoration: none;
-    color: #F44336;
+    color: #00C853;
     background-color: #111;
 }
 
 a:hover {
     text-decoration: none;
-    color: #00C853;
+    
     
 }
 
