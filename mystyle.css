@@ -13,12 +13,12 @@ ul{
   padding: 0;
   width:300px;
   background-color: #000;
-  display:inline;
+  
   
 }
 li{
   color:#FFF;
-  
+  display:inline;
 }
 li a{
   display:block;
