@@ -56,12 +56,6 @@ li :hover {
     background-color: #00C853;
 }
 
-a:hover {
-    text-decoration: none;
-    
-    
-}
-
 a:active {
     text-decoration: underline;
 }
