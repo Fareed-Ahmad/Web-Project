@@ -17,13 +17,13 @@ ul{
   width: 100%;
 }
 li{
-  color:#f1f1f1;
+  color:black;
   display:inline;
 }
 li a{
   display:block;
   width: 100px;
-  background-color: #f1f1f1;
+  background-color: black;
   color: white;
   padding: 8px 10px 8px 10px;
   display:inline
