@@ -11,6 +11,15 @@ ul{
   list-style-type: none;
   margin: 0;
   padding: 0;
+  width:200px;
+  background-color: #000;
+  
+}
+li a{
+  display:block;
+  width: 60px;
+  color: #FFF;
+  padding: 8px 0px 8px 16px;
 }
 a:link {
     text-decoration: none;
