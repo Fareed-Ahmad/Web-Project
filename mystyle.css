@@ -1,11 +1,11 @@
 body{
   background-color: #2196F3;
+  font-family: "Microsoft JhengHei Light";
 }
 p{
   font-family: "Microsoft JhengHei Light";
   font-size: 90px;
   text-align: center;
-  color: black;
 }
 ul{
   list-style-type: none;
@@ -23,7 +23,8 @@ a:visited {
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    color: #F44336;
     
 }
 
