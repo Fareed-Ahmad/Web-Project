@@ -23,6 +23,7 @@ ul{
   top: 0;
   width: 100%;
   overflow: hidden;
+  background-color:#333;
 }
 li{
   float: left;
